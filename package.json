@@ -3,6 +3,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"description": "A beginner FCC project",
 	"keywords": ["freecodecamp","beginner","npm","nodejs", "APSs","Microservices"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
